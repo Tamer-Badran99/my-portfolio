@@ -1,0 +1,72 @@
+.h
+{
+    width:100%;
+    height:100vh;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index:4;
+}
+ 
+.portfolio
+{
+    width:100%;
+    min-height:calc(100vh - 1px);
+    background-image:url('../../Images/Landing-Page.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:1px;
+    position: relative;
+    z-index:2;
+}
+
+.portfolio .box
+{
+    margin-top:190px;
+}
+
+.portfolio .box .sec
+{
+    background-color:#1b1c1d;
+    padding:12px;
+    padding-bottom:15px;
+    box-shadow:1px 0 50px 1px #000;
+    transition:all .5s;
+    border-radius:10px;
+    text-align:center;
+    color:#fff;
+    margin-bottom:22px;
+    position: relative;
+    z-index:4;
+}
+
+.portfolio .box .sec img
+{
+    width:100%;
+    height:100%;
+}
+
+.portfolio .box .sec h4
+{
+    margin-top:25px;
+    margin-bottom:20px;
+}
+
+.portfolio .box .sec a
+{
+    text-decoration:none;
+    padding:6px 16px;
+    border-radius:20px;
+    color:#00a1ff;
+}
+
+.portfolio .box .sec:hover
+{
+    background-color:#f50057;
+}
+
+.portfolio .box .sec:hover a
+{
+    color:#fff;
+    background-color:#00a1ff;
+}

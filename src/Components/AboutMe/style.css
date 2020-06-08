@@ -1,0 +1,263 @@
+
+.about-me
+{
+    width:100%;
+    min-height:100vh;
+    background-image:url('../../Images/Landing-Page.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:20px;
+    padding-bottom:30px;
+    position: relative;
+    z-index:2;
+}
+
+
+.about-me .Tilt
+{
+   background-color:#222;
+   margin:95px auto 0;
+   padding:13px 13px 8px;
+   border-radius:10px;
+   color:#fff;
+   box-shadow:1px 0 50px 1px #000;
+    position: relative;
+    z-index:4;          
+   
+   
+}
+
+.about-me .Tilt .Tilt-inner .top
+{
+    margin-bottom:20px;
+}
+
+.about-me .Tilt .Tilt-inner .top .image
+{
+    height:160px;
+    width:160px;
+    border-radius:50%;
+    margin:auto;
+    background-color:#fff;
+    box-shadow: 1px 2px 50px 3px#000;
+    padding:3px;
+}
+
+.about-me .Tilt .Tilt-inner .top .image img
+{
+    display:block;
+    width:100%;
+    height:100%;
+    border-radius:50%;
+}
+
+.about-me .Tilt .Tilt-inner .top .info p
+{
+    text-align:center;
+    margin-top:20px;
+    line-height:1.7;
+}
+
+.about-me .Tilt .Tilt-inner .middle .desc
+{
+    margin-top:15px;
+}
+
+.about-me .Tilt .Tilt-inner .middle .desc, .about-me .Tilt .Tilt-inner .bottom .desc
+{
+    height:150px;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+.about-me .Tilt .Tilt-inner .bottom .desc
+{
+    
+    padding-top:1px;
+}
+
+.about-me .Tilt .Tilt-inner .bottom .desc .sp
+{
+    display:block;
+    width:45px;
+    height:45px;
+    border-radius:50%;
+    border:2px solid #f50057;
+    margin:15px auto 20px;
+}
+
+.about-me .Tilt .Tilt-inner .bottom .desc .sp i
+{
+    margin-top:5px;
+    color:#f50057;
+}
+
+.about-me .Tilt .Tilt-inner .bottom .desc p
+{
+   font-weight:bold;
+}
+
+.about-me .Tilt .Tilt-inner .bottom .desc span
+{
+    color:#f50057;
+    font-weight:bold;
+}
+
+.about-me .Tilt .Tilt-inner .bottom .desc button
+{
+    padding:5px 10px;
+    border:1px solid #f50057;
+    outline:none;
+    border-radius:5px;
+    font-size:18px;
+    position: relative;
+    top:50px;
+    background-color:transparent;
+    color:#f50057;
+    transition: .4s;
+}
+
+.about-me .Tilt .Tilt-inner .bottom .desc button:hover
+{
+    color:#fff;
+    background-color:#f50057;
+}
+
+.about-me .Tilt .Tilt-inner .bottom .desc .sp .fa-briefcase
+{
+    padding-top:1px;
+}
+
+
+.about-me .Tilt .Tilt-inner .footer
+{
+    background:linear-gradient(45deg,#f50057,#df0fbc);
+    height:45px;
+    text-align:center;
+}
+
+.about-me .Tilt .Tilt-inner .footer a
+{
+    color:#fff;
+    margin-right:18px;
+    font-size:23px;
+    line-height:45px;
+}
+
+.about-me .Tilt .Tilt-inner .percent
+{
+    width:100%;
+    height:110px;
+    position: relative;
+    z-index: 1000;
+}
+
+.about-me .Tilt .Tilt-inner .percent .number
+{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.about-me .Tilt .Tilt-inner .percent .number h2
+{
+    color:#777;
+    font-weight:700;
+    font-size:30px;
+    transition:all 0.45s;
+}
+
+.about-me .Tilt .Tilt-inner .box:hover .number h2
+{
+    color:#fff;
+    font-size:47px;
+}
+
+.about-me .Tilt .Tilt-inner .percent .number h2 span
+{
+    font-size:24px;
+    color:#777;
+}
+
+.about-me .Tilt .Tilt-inner .box:hover .number h2 span
+{
+    color:#fff;
+
+}
+
+.about-me .Tilt .Tilt-inner .middle .desc .text
+{
+    position: relative;
+    color:#777;
+    font-size:18px;
+    font-weight:700;
+    text-transform:uppercase;
+    margin-top:15px;
+}
+
+.about-me .Tilt .Tilt-inner svg
+{
+    position: relative;
+    width:110px;
+    height:110px;
+    z-index:1000;
+}
+
+.about-me .Tilt .Tilt-inner .percent svg circle
+{
+    width:100%;
+    height:100%;
+    fill:none;
+    stroke: #191919;
+    stroke-width:8px;
+    stroke-linecap: round;
+    transform:translate(5px,5px);
+}
+
+.about-me svg circle:nth-child(2)
+{
+    stroke-dasharray: 309;
+    stroke-dashoffset:309;
+}
+
+.about-me .col-6:nth-child(1) svg circle:nth-child(2)
+{
+    stroke-dashoffset: calc(309 - (309 * 95) / 100);
+    stroke:#f50057
+}
+
+.about-me .col-6:nth-child(2) svg circle:nth-child(2)
+{
+    stroke-dashoffset: calc(309 - (309 * 90) / 100);
+    stroke:#f50057
+}
+
+.about-me .col-6:nth-child(3) svg circle:nth-child(2)
+{
+    stroke-dashoffset: calc(309 - (309 * 85) / 100);
+    stroke:#f50057
+}
+
+.about-me .col-6:nth-child(4) svg circle:nth-child(2)
+{
+    stroke-dashoffset: calc(309 - (309 * 90) / 100);
+    stroke:#f50057
+}
+
+.about-me .col-6:nth-child(5) svg circle:nth-child(2)
+{
+    stroke-dashoffset: calc(309 - (309 * 95) / 100);
+    stroke:#f50057
+}
+
+.about-me .col-6:nth-child(6) svg circle:nth-child(2)
+{
+    stroke-dashoffset: calc(309 - (309 * 80) / 100);
+    stroke:#f50057
+}

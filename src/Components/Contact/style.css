@@ -1,0 +1,83 @@
+.h
+{
+    width:100%;
+    height:100vh;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index:4;
+}
+ 
+.contact
+{
+    width:100%;
+    min-height:calc(100vh - 1px);
+    background-image:url('../../Images/Landing-Page.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:1px;
+    position: relative;
+    z-index:2;
+}
+
+.contact .contact-box
+{
+    max-width:500px;
+    padding-top:11px;
+    padding-bottom:16px;
+    background:linear-gradient(45deg,#1b1c1d 50%,#f50057);
+    margin:170px auto 0;
+    border-radius:7px;
+    box-shadow:1px 1px 40px 1px #000,
+               inset 0 0 30px 1px #000;
+    position: relative;
+    z-index:4; 
+}
+
+.contact .contact-box img
+{
+    width:220px;
+    height:164px;
+    display:block;
+    margin:auto;
+}
+
+.contact .contact-box ul
+{
+    color:#fff;
+    list-style:none;
+    padding-left:0;
+    display: block;
+    width:220px;
+    margin:45px auto 30px;
+}
+
+.contact .contact-box ul li
+{
+    margin-bottom:12px;
+}
+
+.contact .contact-box ul li i
+{
+    font-size:22px;
+    width:24px;
+    text-align: center;
+}
+
+.contact .contact-box .links
+{
+    text-align:center;
+}
+
+.contact .contact-box .links a
+{
+    color:#fff;
+    color:#fff;
+    margin-right:22px;
+    font-size:23px;
+}
+
+.contact .contact-box .links a:hover i
+{
+    cursor: pointer;
+}

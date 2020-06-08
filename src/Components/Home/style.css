@@ -1,0 +1,85 @@
+.h
+{
+    width:100%;
+    min-height:100vh;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index:4;
+}
+
+.home
+{
+    width:100%;
+    min-height:calc(100vh - 1px);
+    background-image:url('../../Images/Landing-Page.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:1px;
+    position: relative;
+    z-index:2;
+}
+ 
+.home .circle
+{
+    width:229px;
+    height:256px;
+    margin:auto;
+    position: relative;
+    top:80px;
+    overflow: hidden;
+}
+
+.home .circle img
+{
+    width:350px;
+    height:295px;
+    display:block;
+    margin-left:-60.5px;
+}
+
+.home .image-translate
+{
+    width:210px;
+    height:215px;
+    position: absolute;
+    top:120px;
+    left:50%;
+    margin-left:-100.5px;
+}
+
+.home .image-translate img
+{
+    width:100%;
+    height:100%;
+}
+
+.home .introduction-text
+{
+    position: absolute;
+    top:390px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+
+}
+
+.home .introduction-text h1
+{
+    font-family: 'Bungee', cursive;
+    color:#fff;
+    font-size:40px;
+    font-weight:700;
+    margin-bottom:25px;
+    text-shadow:5px 5px 10px #000,
+                -2px -2px 5px #000;
+}
+
+.home .introduction-text p
+{
+    font-family: 'Ropa Sans', sans-serif;
+    font-weight:500;
+    color:#fff;
+    font-size:27px;
+    
+}
