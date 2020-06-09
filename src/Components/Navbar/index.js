@@ -2,7 +2,7 @@ import React, { Fragment, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 import './style.css';
 import show from './show';
-import Logo from '../../Images/logo.png';
+import Logo from '../../Images/logo-compressor.png';
 
 function Navbar() {
 

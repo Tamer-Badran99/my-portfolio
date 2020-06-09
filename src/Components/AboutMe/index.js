@@ -3,7 +3,7 @@ import './style.css';
 import Particles from 'react-particles-js';
 import f from '../particles.json';
 import Tilt from 'react-tilt';
-import faceImage from '../../Images/face.png';
+import faceImage from '../../Images/face-compressor.png';
 
 function AboutMe ()
 {

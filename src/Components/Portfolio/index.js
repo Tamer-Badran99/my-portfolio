@@ -2,9 +2,9 @@ import React from 'react';
 import './style.css';
 import Particles from 'react-particles-js';
 import f from '../particles.json';
-import OnlineShopping from '../../Images/online-store.png';
-import ItalianPizza from '../../Images/italian-pizza.png';
-import Furniture from '../../Images/furniture.png';
+import OnlineShopping from '../../Images/online-store-compressor.png';
+import ItalianPizza from '../../Images/italian-pizza-compressor.png';
+import Furniture from '../../Images/furniture-compressor.png';
 
 
 

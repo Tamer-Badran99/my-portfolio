@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import ImageContact from '../../Images/contact.svg';
+import ImageContact from '../../Images/contact-compressor.svg';
 import Particles from 'react-particles-js';
 import f from '../particles.json';
 

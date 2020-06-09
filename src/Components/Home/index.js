@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import './style.css';
-import circle from '../../Images/circle.gif';
-import me from '../../Images/me-one.png';
+import circle from '../../Images/circle-compressor.gif';
+import me from '../../Images/me-one-compressor.png';
 import Particles from 'react-particles-js';
 import f from '../particles.json';
 
