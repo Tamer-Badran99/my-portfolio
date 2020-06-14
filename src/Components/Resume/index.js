@@ -40,7 +40,7 @@ function Resume() {
 
                     <div className="desc">
                         <div className="eduation">
-                            <h2>Eduation</h2>
+                            <h2>Education</h2>
                         </div>
                         <div className="up animate__animated animate__slideInUp">
                           <div className="left">
