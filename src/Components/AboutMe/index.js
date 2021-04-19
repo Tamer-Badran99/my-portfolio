@@ -134,7 +134,7 @@ function AboutMe ()
                                             <h2>80<span>%</span></h2>
                                        </div>
                                    </div>
-                                   <h2 className="text">gulp js</h2>
+                                   <h2 className="text">json</h2>
                                </div>
                                </div>
                             </div>
