@@ -14,7 +14,7 @@ function Resume() {
 
                     <div className="desc">
                         <div className="experience">
-                            <h2>Experience</h2>
+                            <h2>Experiencee</h2>
                         </div>
                          <div className="up animate__animated animate__slideInUp">
                          <div className="left">
