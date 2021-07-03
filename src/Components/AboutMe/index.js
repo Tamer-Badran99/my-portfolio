@@ -181,7 +181,7 @@ function AboutMe ()
                     <div className="footer">
                         <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook-square animate__animated animate__rollIn" aria-hidden="true"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter animate__animated animate__rollIn"></i></a>
-                        <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa-github animate__animated animate__rollIn"></i></a>
+                        <a href="https://github.com/Tamer-Badran99" target="_blank" rel="noopener noreferrer"><i className="fa fa-github animate__animated animate__rollIn"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa fa-snapchat animate__animated animate__rollIn"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram animate__animated animate__rollIn"></i></a>
                     </div>
