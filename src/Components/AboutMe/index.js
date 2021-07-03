@@ -131,10 +131,10 @@ function AboutMe ()
                                           <circle cx="50" cy="50" r="50"></circle>
                                        </svg>
                                        <div className="number">
-                                            <h2>80<span>%</span></h2>
+                                            <h2>90<span>%</span></h2>
                                        </div>
                                    </div>
-                                   <h2 className="text">json</h2>
+                                   <h2 className="text">webpack</h2>
                                </div>
                                </div>
                             </div>
