@@ -52,11 +52,12 @@ function Resume() {
                             <p>I finished this stage of the science section with an excellent grade</p>
                           </div>
                           <div className="right">
-                            <h5>computer engineering</h5>
+                            <h5>Computer Engineering</h5>
                               <div className="date">
-                                <i className="fa fa-calendar" aria-hidden="true"></i><span> 02/09/2017 - to now | PTUK</span>
+                                <i className="fa fa-calendar" aria-hidden="true"></i><span> 02/09/2017 - 28/08/2021 | PTUK</span>
                               </div>
-                              <p>Now I am still studying at the university in the field of computer engineering, and when I get my bachelor's degree I am in the master's degree .</p>
+                              <p>I have a Bachelor's degree in Computer Engineering from Palestine Technical
+                                 University Kadoorie</p>
                           </div>
                           </div>
                     </div>

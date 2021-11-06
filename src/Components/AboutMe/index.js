@@ -27,7 +27,7 @@ function AboutMe ()
                             <div className="col-xl-6">
                               <div className="info">
                                 <p>Welcome Sir...<br />
-                                My name is Tamer Badran, a student at the Palestinian Technical University-Kadoorie , I'm studying computer engineering , I'm a Front-End Developer , I worked at Freelancer for two years with a team</p>
+                                My name is Tamer Badran Front-End Developer, I holds a Bachelor's degree in Computer Engineering from Palestine Technical University Kadoorie, I have 2 years of experience in Front-end Developer</p>
                               </div>
                             </div>
 
