@@ -258,6 +258,6 @@
 
 .about-me .col-6:nth-child(6) svg circle:nth-child(2)
 {
-    stroke-dashoffset: calc(309 - (309 * 90) / 100);
+    stroke-dashoffset: calc(309 - (309 * 85) / 100);
     stroke:#f50057
 }

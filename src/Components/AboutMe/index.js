@@ -131,7 +131,7 @@ function AboutMe ()
                                           <circle cx="50" cy="50" r="50"></circle>
                                        </svg>
                                        <div className="number">
-                                            <h2>90<span>%</span></h2>
+                                            <h2>85<span>%</span></h2>
                                        </div>
                                    </div>
                                    <h2 className="text">webpack</h2>
@@ -180,10 +180,10 @@ function AboutMe ()
 
                     <div className="footer">
                         <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook-square animate__animated animate__rollIn" aria-hidden="true"></i></a>
-                        <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter animate__animated animate__rollIn"></i></a>
                         <a href="https://github.com/Tamer-Badran99" target="_blank" rel="noopener noreferrer"><i className="fa fa-github animate__animated animate__rollIn"></i></a>
+                        <a href="https://www.linkedin.com/in/tamer-badran-b88205252/" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin-square animate__animated animate__rollIn"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa fa-snapchat animate__animated animate__rollIn"></i></a>
-                        <a href="https://www.facebook.com/profile.php?id=100005040606089" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram animate__animated animate__rollIn"></i></a>
+                        
                     </div>
 
                 </div>

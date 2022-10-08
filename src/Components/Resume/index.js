@@ -17,20 +17,21 @@ function Resume() {
                             <h2>Experience</h2>
                         </div>
                          <div className="up animate__animated animate__slideInUp">
-                         <div className="left">
+              
+                          <div className="left">
                             <h5>Front-End Developer</h5>
-                              <div className="date">
-                                <i className="fa fa-calendar" aria-hidden="true"></i><span> 13/2/2020 | Course</span>
-                              </div>
-                              <p>I've finished a front-end Web course 48-hour, from the Arab center for IT, and got a certificate certified by the Ministry of Education and I am one of the people who got creative and professional evaluation in the field .</p>
+                            <div className="date">
+                                <i className="fa fa-calendar" aria-hidden="true"></i><span> 01/06/2020 - 31/12/2020 | Training</span>
+                            </div>
+                            <p>I trained at a German company (DataRhine) remotely. For six months in a team, where we completed a number of websites, then we got a certificate of experience from this company.</p>
                           </div>
 
                           <div className="right">
                             <h5>Front-End Developer</h5>
                             <div className="date">
-                                <i className="fa fa-calendar" aria-hidden="true"></i><span> 01/06/2020 - 31/12/2020 | Freelancer</span>
+                                <i className="fa fa-calendar" aria-hidden="true"></i><span> 11/2021 - 11/2022 | Al Istiqlal University</span>
                             </div>
-                            <p>I trained at a German company (DataRhine) remotely. For six months in a team, where we completed a number of websites, then we got a certificate of experience from this company.</p>
+                            <p>One year experience in Front End by working as a Front End Developer at Al Istiqlal University</p>
                           </div>
         
                         </div>
