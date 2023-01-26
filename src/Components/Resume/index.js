@@ -31,7 +31,7 @@ function Resume() {
                             <div className="date">
                                 <i className="fa fa-calendar" aria-hidden="true"></i><span> 01/2022 - till today | Al Istiqlal University</span>
                             </div>
-                            <p>One year experience in Front End by working as a Front End Developer at Al Istiqlal University in Jericho, Palestine</p>
+                            <p>One year experience in Front-End by working as a Front End Developer at Al Istiqlal University in Jericho, Palestine</p>
                           </div>
         
                         </div>
